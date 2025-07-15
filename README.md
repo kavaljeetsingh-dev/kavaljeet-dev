@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavaljeetsingh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kavaljeetsingh-dev" />
-</p>
+
 
 ---
 
