@@ -26,7 +26,7 @@
 
 ## 🌟 Favorite Projects
 
-- **CampusAI / CampusGenie:**  
+- **EduPath AI:**  
   AI-powered student assistant platform with 15+ features for academics, productivity, and well-being.
 
 - **Pixel PowerPoint Genie:**  
@@ -34,9 +34,6 @@
 
 - **FarmConnect:**  
   Full-stack web portal for farmers and buyers—marketplace, loan system, weather forecasts, and AI-powered insights.
-
-- **Bridge4U Coding Voyage:**  
-  Organized a 50-day DSA challenge with leaderboard, custom test cases, and unique questions.
 
 ---
 
